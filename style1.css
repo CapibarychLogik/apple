@@ -1,3 +1,4 @@
+
 body {
     font-family: sans-serif;
     
@@ -165,11 +166,6 @@ article p {
 
 
 
-.page {
-    width: 80px;
-    position: relative;
-    bottom: 100px;
-}
 
 footer p {
     color: grey;
@@ -184,6 +180,17 @@ footer a {
     color: black;
     font-size: 15px;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
