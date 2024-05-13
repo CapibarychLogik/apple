@@ -99,7 +99,7 @@ article {
     width: 49%;
     text-align: center;
     font-size: 15px;
-    height: 28%;
+    height: 40%;
 
 }
 article h1 {
@@ -131,8 +131,8 @@ article p {
     margin: 0.5%;
 }
 
-.watch {
-        height: 10%;
+.watch img {
+        height: 30%;
         width: 50%;
 }
 
@@ -144,7 +144,7 @@ article p {
 
 .ipad img {
     width: 50%;
-        height: 10%;
+        height: 30%;
 }
 .sigma {
   float: left;
@@ -154,7 +154,7 @@ article p {
 }
 
         .sigma img {
-        height: 10%;
+        height: 30%;
         width 50%
         }
 
@@ -169,7 +169,7 @@ article p {
     background-color: white;
 }
 .mac img {
-    height: 10%;
+    height: 30%;
 }
    
 
