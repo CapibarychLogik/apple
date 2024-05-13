@@ -1,0 +1,198 @@
+body {
+    font-family: sans-serif;
+    
+    text-align: center;
+}
+
+header h2 {
+    color: grey;
+    font-size: 15px;
+    text-align: center;
+}
+header {
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    opacity: 0.9;
+    top: 0px;
+}
+
+.nav {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}
+
+nav {
+    color: white;
+    background-color: black;
+    width: 100%;
+    font-size: 10%;
+}
+
+nav a {
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 10px 25px 10px 25px;
+    text-align: center;
+    
+
+}
+
+
+header img {
+    width: 200px;
+    height: 60px;
+}
+
+.qwerty {
+    margin-top: 12%;
+}
+
+ main h1 {
+    text-align: center;
+   
+   
+    width: 100%;
+}
+
+main h2 {
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
+}
+
+main a {
+    color: blue;
+    width: 100%;
+    font-size: 15px;
+    right: 47%;
+    left: 47%;
+    text-decoration: none;
+
+}
+
+main a:hover {
+    text-decoration: blue;
+}
+
+main a::after {
+    content: url();https://cdn-icons-png.flaticon.com/512/758/758911.png
+    width: 30px;
+    height: 30px;
+}
+
+main img {
+    width: 100%;
+}
+.iphone {
+    color: white;
+    background-color: black;
+}
+
+article {
+    width: 49%;
+    text-align: center;
+    font-size: 15px;
+    height: 28%;
+
+}
+article h1 {
+    font-size: 30px;
+
+}
+
+article h2 {
+    font-size: 20px;
+}
+article a {
+    color: blue;
+    text-decoration: none;
+    font-size: 15px;
+}
+article img {
+    width: 50%;
+}
+
+article p {
+    font-size: 10px;
+}
+
+.watch {
+    float: left;
+    color: white;
+    background-color: black;
+    left: 0%;
+    margin: 0.5%;
+}
+
+.ipad {
+    float: right;
+    margin: 0.5% 0.5% 4.5% 0.5%;
+    
+}
+
+.ipad img {
+    width: 50%;
+}
+.sigma {
+  float: left;
+  color: black;
+  background-color: white;
+  margin-top: 3%;
+}
+
+.sigma p {
+    color: orange;
+}
+
+.mac {
+    float: right;
+    margin: 0% 0.5% 0.5% 0%;
+    color: black;
+    background-color: white;
+}
+.mac img {
+    height: 3%;
+}
+   
+
+
+
+
+
+.page {
+    width: 80px;
+    position: relative;
+    bottom: 100px;
+}
+
+footer p {
+    color: grey;
+    font-size: 15px;
+    float: left;
+
+}
+footer {
+    border-bottom: 1px solid gray;
+}
+footer a {
+    color: black;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
