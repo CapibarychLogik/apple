@@ -99,7 +99,7 @@ article {
     width: 49%;
     text-align: center;
     font-size: 15px;
-    height: 80%;
+    height: 28%;
 
 }
 article h1 {
@@ -129,37 +129,23 @@ article p {
     background-color: black;
     left: 0%;
     margin: 0.5%;
-        height: 80%;
-}
-
-.watch img {
-        height: 50%;
-        width: 50%;
 }
 
 .ipad {
     float: right;
     margin: 0.5% 0.5% 4.5% 0.5%;
-        height: 80%;
     
 }
 
 .ipad img {
     width: 50%;
-        height: 50%;
 }
 .sigma {
   float: left;
   color: black;
   background-color: white;
   margin-top: 3%;
-        height: 80%;
 }
-
-        .sigma img {
-        height: 50%;
-        width 50%
-        }
 
 .sigma p {
     color: orange;
@@ -170,12 +156,11 @@ article p {
     margin: 0% 0.5% 0.5% 0%;
     color: black;
     background-color: white;
-   height: 80%;     
 }
 .mac img {
-    height: 50%;
+    height: 3%;
+    
 }
-
 footer p {
     color: grey;
     font-size: 15px;
@@ -186,29 +171,6 @@ footer {
     border-bottom: 1px solid gray;
 }
 footer a {
-    color: black;
+    color: rgb(0, 0, 0);
     font-size: 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
